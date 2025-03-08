@@ -1,4 +1,4 @@
-const string = "Paulo henrique";
+const string = "Roger";
 
 console.log(string.toUpperCase());  
 console.log(string.toLowerCase());  
